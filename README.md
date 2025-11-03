@@ -39,3 +39,46 @@ A responsive counter application demonstrating the full integration of **LiveDat
 This application showcases how the three Jetpack components work together to provide a clean, reliable, and testable separation between the UI and the data.
 
 ---
+
+### Screenshots
+<table style="width:100%;"> 
+  <tr> 
+    <td align="center" style="width:50%;"> 
+      <strong>Main Screen
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_19_LiveData_ViewModel_DataBinding_App/blob/main/Result%20Pics/01%20Main%20Screen.jpg" height="510" width="240"> 
+  </td> 
+    <td align="center" style="width:50%;"> 
+      <strong>User Input
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_19_LiveData_ViewModel_DataBinding_App/blob/main/Result%20Pics/02%20User%20Input.jpg" height="510" width="240"> 
+  </td> 
+    <td align="center" style="width:50%;"> 
+      <strong>Configuration changed & Data not lost
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_19_LiveData_ViewModel_DataBinding_App/blob/main/Result%20Pics/03%20Configuration%20changed%20%26%20Data%20not%20lost.jpg" height="510" width="480"> </td> </tr> </table>
+
+<table style="width:100%;"> 
+  <tr> 
+    <td align="center" style="width:50%;"> 
+      <strong>User Input
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_19_LiveData_ViewModel_DataBinding_App/blob/main/Result%20Pics/04%20User%20Input.jpg" height="510" width="480"> 
+ </td> 
+    <td align="center" style="width:50%;"> 
+      <strong>Configuration changed & VM showing Live-Binded Data
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_19_LiveData_ViewModel_DataBinding_App/blob/main/Result%20Pics/05%20Configuration%20changed%20%26%20VM%20showing%20Live-Binded%20Data.jpg" height="510" width="240"> </td> </tr> </table>
+
+
+---
